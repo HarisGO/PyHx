@@ -124,7 +124,6 @@ PyHx uses a simple, verb-based command language for most file and system operati
 | `install` | `install my-app.pyhx`| Installs a packaged app. |
 | `run` | `run my-app.pyhx` | Runs an installed app in a sandbox. |
 | `h7t` | `h7t` | A shortcut to run the pre-installed Hacker Toolkit. |
-| In The New Update, add app before these commands for it to work |
 
 ### Tools & Fun
 | Command | Example Usage | Description |
