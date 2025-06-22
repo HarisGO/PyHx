@@ -27,14 +27,8 @@ PyHx is built with **usability first**. It's designed to be a fun, hackable, and
     ```bash
     cd PyHx
     ```
-
-3.  **Install required libraries:**
-    (These are needed for the `store-gui` and `joke` commands)
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4.  **Run PyHx:**
+    
+3.  **Run PyHx:**
     ```bash
     python main.py
     ```
