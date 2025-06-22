@@ -65,17 +65,17 @@ This allows you to create and share your own terminal applications that can be s
 
 3.  **Launch PyHx** and use the `convert` command to package your app. This creates `my-app.pyhx` in the `packages/` staging folder.
     ```
-    root@pyhx-host:PyHx$ convert -pyhx my-app
+    PyHx$ convert -pyhx my-app-dir
     ```
 
 4.  **Install the app** to make it runnable. This moves it to the `packages/installed/` directory.
     ```
-    root@pyhx-host:PyHx$ install my-app.pyhx
+    install my-app.pyhx
     ```
 
 5.  **Run your app!**
     ```
-    root@pyhx-host:PyHx$ run my-app.pyhx
+    run my-app.pyhx
     ```
     The OS will launch your app in a safe, temporary environment and clean up automatically when it's done.
 
