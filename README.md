@@ -1,6 +1,9 @@
 # PyHx OS
 A terminal-based pseudo-operating system written entirely in Python. PyHx emulates a minimal OS-like environment with a custom shell, multi-user support, a sandboxed application format, and an intuitive, human-readable command language for core tasks.
 
+Make sure to run
+'' pip install requests ''
+in your command prompt
 ## 🔥 Why PyHx?
 PyHx is built with **usability first**. It's designed to be a fun, hackable, and educational project for both beginners and power users.
 
